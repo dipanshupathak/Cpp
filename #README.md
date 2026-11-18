@@ -1,8 +1,10 @@
+C++ Programming
+
 Welcome to my C++ Programming Repository.
 
 This repository contains my C++ programs and coding practice. It reflects my learning journey, practical implementations, and continuous improvement in programming.
 
-# About This Repository
+About This Repository
 
 C++ programming fundamentals
 
@@ -12,7 +14,7 @@ Problem-solving exercises
 
 Practical coding examples
 
-# Technologies
+Technologies
 
 Language: C++
 
@@ -20,6 +22,6 @@ Compiler: GCC / G++
 
 Editor: Visual Studio Code
 
-# Purpose
+Purpose
 
 To strengthen my programming fundamentals, improve problem-solving skills, and gain practical experience through consistent coding.
